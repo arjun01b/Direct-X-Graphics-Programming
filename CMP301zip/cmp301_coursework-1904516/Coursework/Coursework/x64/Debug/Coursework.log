@@ -1,0 +1,91 @@
+﻿E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\horizontalBloom_ps.hlsl(177,10-99): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\horizontalBloom_ps.cso
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\horizontalBloom_vs.cso
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\horizontalBlur_ps.cso
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\horizontalBlur_vs.cso
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\verticalBloom_ps.hlsl(173,10-99): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\verticalBloom_ps.cso
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\verticalBloom_vs.cso
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\verticalBlur_ps.cso
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\verticalBlur_vs.cso
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\depth_ps.cso
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\depth_vs.cso
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\height_ps.hlsl(52,5): warning X4000: use of potentially uninitialized variable (hasDepthData)
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\height_ps.hlsl(68,5): warning X4000: use of potentially uninitialized variable (isInShadow)
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\height_ps.hlsl(52,5): warning X4000: use of potentially uninitialized variable (hasDepthData)
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\height_ps.hlsl(68,5): warning X4000: use of potentially uninitialized variable (isInShadow)
+  
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\height_ps.cso
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\height_vs.cso
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\manipH_ps.cso
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\manipH_vs.cso
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\shadow_ps.hlsl(50,5): warning X4000: use of potentially uninitialized variable (hasDepthData)
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\shadow_ps.hlsl(66,5): warning X4000: use of potentially uninitialized variable (isInShadow)
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\shadow_ps.hlsl(50,5): warning X4000: use of potentially uninitialized variable (hasDepthData)
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\shadow_ps.hlsl(66,5): warning X4000: use of potentially uninitialized variable (isInShadow)
+  
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\shadow_ps.cso
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\shadow_vs.cso
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\texture_ps.cso
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\texture_vs.cso
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\watermanip_ps.cso
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\watermanip_vs.cso
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\water_ps.hlsl(52,5): warning X4000: use of potentially uninitialized variable (hasDepthData)
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\water_ps.hlsl(68,5): warning X4000: use of potentially uninitialized variable (isInShadow)
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\water_ps.hlsl(52,5): warning X4000: use of potentially uninitialized variable (hasDepthData)
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\water_ps.hlsl(68,5): warning X4000: use of potentially uninitialized variable (isInShadow)
+  
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\water_ps.cso
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\water_vs.hlsl(65,2-131): warning X3206: implicit truncation of vector type
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\water_vs.hlsl(66,2-133): warning X3206: implicit truncation of vector type
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\water_vs.hlsl(67,2-134): warning X3206: implicit truncation of vector type
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\water_vs.hlsl(68,2-132): warning X3206: implicit truncation of vector type
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\water_vs.hlsl(73,22-41): warning X3206: implicit truncation of vector type
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\water_vs.hlsl(74,24-45): warning X3206: implicit truncation of vector type
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\water_vs.hlsl(75,25-47): warning X3206: implicit truncation of vector type
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\water_vs.hlsl(76,23-43): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\water_vs.cso
+  App1.cpp
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(172,13): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(172,13): warning C4154: deletion of an array expression; conversion to pointer supplied
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(278,51): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(286,53): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(294,40): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(323,51): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(331,53): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(339,40): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(376,47): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(384,53): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(392,40): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(423,51): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(431,53): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(439,40): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(575,52): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(583,54): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\App1.cpp(591,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  HorizontalBloomShader.cpp
+  HorizontalBlurShader.cpp
+  VerticalBloomShader.cpp
+  VerticalBlurShader.cpp
+  DepthShader.cpp
+  HManip.cpp
+  HShader.cpp
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\HShader.cpp(155,47): warning C4305: 'argument': truncation from 'double' to 'float'
+  Main.cpp
+  ShadowShader.cpp
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\ShadowShader.cpp(152,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  TextureShader.cpp
+  ManipWater.cpp
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\ManipWater.cpp(54,20): warning C4101: 'lightBufferDesc': unreferenced local variable
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\ManipWater.cpp(53,21): warning C4101: 'samplerDesc': unreferenced local variable
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\ManipWater.cpp(83,10): warning C4101: 'result': unreferenced local variable
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\ManipWater.cpp(87,51): warning C4101: 'tLightProjectionMatrix': unreferenced local variable
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\ManipWater.cpp(87,33): warning C4101: 'tLightViewMatrix': unreferenced local variable
+  WaterShader.cpp
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\WaterShader.cpp(173,53): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\Coursework\WaterShader.cpp(129,10): warning C4101: 'result': unreferenced local variable
+  Generating Code...
+  Coursework.vcxproj -> E:\ProjectsForWebsite\CMP301zip\cmp301_coursework-1904516\Coursework\x64\Debug\Coursework.exe

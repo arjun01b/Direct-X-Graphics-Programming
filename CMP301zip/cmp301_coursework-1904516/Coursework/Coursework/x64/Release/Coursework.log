@@ -1,0 +1,3 @@
+﻿E:\cmp301_coursework-1904516\Coursework\Coursework\height_vs.hlsl(4,14-21): error X4509: maximum sampler register index exceeded, target has 0 slots, manual bind to slot s0 failed
+  
+  compilation failed; no code produced

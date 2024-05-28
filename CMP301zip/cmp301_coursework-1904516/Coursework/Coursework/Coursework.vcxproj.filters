@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Shadow">
+      <UniqueIdentifier>{644e5f00-21c5-453a-a38d-40764c746456}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Effect">
+      <UniqueIdentifier>{9af91b85-5994-4962-8255-7ab66234408b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Manip">
+      <UniqueIdentifier>{78fb74e7-f79c-4ac5-b930-20c1cfb53dda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shader">
+      <UniqueIdentifier>{68c0df82-a8dc-4002-b502-935d7cb5e5ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Effect">
+      <UniqueIdentifier>{c5e02cb3-5a2a-4be3-a5ae-011a0666faa3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shader">
+      <UniqueIdentifier>{ceffb847-0ab1-4773-ac22-797f377c8506}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Manip">
+      <UniqueIdentifier>{c782bec6-adf0-4df2-a195-6bf4d0cd0891}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Shader">
+      <UniqueIdentifier>{bfc5fefc-4082-449c-89e4-e95fb0aa1bdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Manip">
+      <UniqueIdentifier>{94c4aec6-a777-4cdf-8bca-add91e24f469}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Effect">
+      <UniqueIdentifier>{504a3eab-8b09-425b-a29f-2bfe4958fa3b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DepthShader.cpp">
+      <Filter>Source Files\Manip</Filter>
+    </ClCompile>
+    <ClCompile Include="HManip.cpp">
+      <Filter>Source Files\Manip</Filter>
+    </ClCompile>
+    <ClCompile Include="ManipWater.cpp">
+      <Filter>Source Files\Manip</Filter>
+    </ClCompile>
+    <ClCompile Include="HShader.cpp">
+      <Filter>Source Files\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="ShadowShader.cpp">
+      <Filter>Source Files\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="WaterShader.cpp">
+      <Filter>Source Files\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="VerticalBlurShader.cpp">
+      <Filter>Source Files\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="HorizontalBlurShader.cpp">
+      <Filter>Source Files\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="HorizontalBloomShader.cpp">
+      <Filter>Source Files\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="VerticalBloomShader.cpp">
+      <Filter>Source Files\Effect</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureShader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DepthShader.h">
+      <Filter>Header Files\Manip</Filter>
+    </ClInclude>
+    <ClInclude Include="HManip.h">
+      <Filter>Header Files\Manip</Filter>
+    </ClInclude>
+    <ClInclude Include="ManipWater.h">
+      <Filter>Header Files\Manip</Filter>
+    </ClInclude>
+    <ClInclude Include="HShader.h">
+      <Filter>Header Files\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="ShadowShader.h">
+      <Filter>Header Files\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="WaterShader.h">
+      <Filter>Header Files\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="HorizontalBlurShader.h">
+      <Filter>Header Files\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="VerticalBlurShader.h">
+      <Filter>Header Files\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="HorizontalBloomShader.h">
+      <Filter>Header Files\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="VerticalBloomShader.h">
+      <Filter>Header Files\Effect</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="texture_vs.hlsl">
+      <Filter>Resource Files</Filter>
+    </FxCompile>
+    <FxCompile Include="texture_ps.hlsl">
+      <Filter>Resource Files</Filter>
+    </FxCompile>
+    <FxCompile Include="horizontalBlur_ps.hlsl">
+      <Filter>Resource Files\Effect</Filter>
+    </FxCompile>
+    <FxCompile Include="verticalBlur_ps.hlsl">
+      <Filter>Resource Files\Effect</Filter>
+    </FxCompile>
+    <FxCompile Include="water_vs.hlsl">
+      <Filter>Resource Files\Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="water_ps.hlsl">
+      <Filter>Resource Files\Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="height_vs.hlsl">
+      <Filter>Resource Files\Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="height_ps.hlsl">
+      <Filter>Resource Files\Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="depth_ps.hlsl">
+      <Filter>Resource Files\Manip</Filter>
+    </FxCompile>
+    <FxCompile Include="depth_vs.hlsl">
+      <Filter>Resource Files\Manip</Filter>
+    </FxCompile>
+    <FxCompile Include="manipH_ps.hlsl">
+      <Filter>Resource Files\Manip</Filter>
+    </FxCompile>
+    <FxCompile Include="manipH_vs.hlsl">
+      <Filter>Resource Files\Manip</Filter>
+    </FxCompile>
+    <FxCompile Include="watermanip_ps.hlsl">
+      <Filter>Resource Files\Manip</Filter>
+    </FxCompile>
+    <FxCompile Include="watermanip_vs.hlsl">
+      <Filter>Resource Files\Manip</Filter>
+    </FxCompile>
+    <FxCompile Include="shadow_vs.hlsl">
+      <Filter>Resource Files\Shadow</Filter>
+    </FxCompile>
+    <FxCompile Include="shadow_ps.hlsl">
+      <Filter>Resource Files\Shadow</Filter>
+    </FxCompile>
+    <FxCompile Include="horizontalBlur_vs.hlsl">
+      <Filter>Resource Files\Effect</Filter>
+    </FxCompile>
+    <FxCompile Include="verticalBlur_vs.hlsl">
+      <Filter>Resource Files\Effect</Filter>
+    </FxCompile>
+    <FxCompile Include="horizontalBloom_ps.hlsl">
+      <Filter>Resource Files\Effect</Filter>
+    </FxCompile>
+    <FxCompile Include="verticalBloom_ps.hlsl">
+      <Filter>Resource Files\Effect</Filter>
+    </FxCompile>
+    <FxCompile Include="horizontalBloom_vs.hlsl">
+      <Filter>Resource Files\Effect</Filter>
+    </FxCompile>
+    <FxCompile Include="verticalBloom_vs.hlsl">
+      <Filter>Resource Files\Effect</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>
